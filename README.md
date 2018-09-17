@@ -14,4 +14,4 @@ alteração
 
 alteração remota
 
-isso
+isso / alteração remota 
